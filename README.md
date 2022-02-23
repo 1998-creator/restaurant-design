@@ -1,5 +1,8 @@
 # Restaurant-Design
 
+A mock restaurant website that would allow a user to contact or book a table, read about the restaurant and see awards given to it, and check out the specials on the menu. 
+Built with media queries that has responsiveness for almost all devices, the project also includes react functional components and fundemental css properties.
+
 Check it out: https://restaurant-design-1.netlify.app/
 
 ## Available Scripts
